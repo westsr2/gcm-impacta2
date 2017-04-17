@@ -1,11 +1,11 @@
 # Filmes preferidos da equipe
 
-## Filmes preferidos de INTEGRANTE 1
+## Filmes preferidos de Wesley Saldanha 
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Senhor dos Aneis
+* Warcraft
+* A Onda
+* Batalha por Los Angeles
 
 ## Filmes preferidos de INTEGRANTE2
 
