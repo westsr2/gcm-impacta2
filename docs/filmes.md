@@ -14,3 +14,10 @@
 * Matrix
 * Watchman
 
+## Filmes preferidos de Lucas1801
+
+* Senhor dos aneis
+* piratas do caribe
+* carga explosiva 3
+* O conde
+
